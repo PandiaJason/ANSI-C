@@ -1,4 +1,4 @@
-# Lecture notes on Python Programming
+# Lecture notes on C Programming
 
 **By Jason Pandian**  
 *Assistant Professor, Department of IT,*  
